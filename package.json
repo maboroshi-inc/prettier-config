@@ -2,6 +2,7 @@
   "name": "@maboroshi/prettier-config",
   "version": "1.0.0",
   "description": "Our standard Prettier configurations",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
