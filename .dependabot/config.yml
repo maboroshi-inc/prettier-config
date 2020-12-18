@@ -10,7 +10,6 @@ update_configs:
           update_type: 'all'
           dependency_type: 'direct'
     default_reviewers:
-      - ajunajunajun
       - haribote
       - isoden
       - NaokiMatsuda
